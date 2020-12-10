@@ -2,7 +2,7 @@
 This is a **quick tutorial**, check here for the [demo](https://aldopolojr.github.io/glowing-ring/)
 
 ## Notes
-- …
+- filter: blur
 
 ## Source
 [https://youtu.be/jThaNv8pKDQ](https://youtu.be/jThaNv8pKDQ)
